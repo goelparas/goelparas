@@ -19,7 +19,7 @@ I'm Paras Goel, a Frontend Developer 🚀 with experience working in startups. I
 - [Work Space ](https://woorkspaacee.netlify.app/) 
 
 ## How to Reach Me
-- [LinkedIn](www.linkedin.com/in/goelparas01)
+- [LinkedIn](https://www.linkedin.com/in/goelparas01)
 - [Twitter](https://twitter.com/parasgoelL)
 - [Email](mailto:paras.work101@gmail.com)
 
