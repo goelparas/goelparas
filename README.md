@@ -13,14 +13,14 @@ I'm Paras Goel, a Frontend Developer 🚀 with experience working in startups. I
 
 ## Some of My Projects
 
-- [Augmented Reality Solar System ](https://github.com/goelparas/Smash-Food)) -  
+- [Augmented Reality Solar System ](https://github.com/goelparas/Smash-Food)  
 - [Portfolio](https://goelparas.tech) 
 - [Crown Clothing](https://lustrous-travesseiro-6d2745.netlify.app/)
 - [Work Space ](https://woorkspaacee.netlify.app/) 
 
 ## How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/goelparas01)
-- [Twitter](https://twitter.com/parasgoelL)
+- [Twitter](https://twitter.com/Paras_goelL)
 - [Email](mailto:paras.work101@gmail.com)
 
 Feel free to connect and reach out!
