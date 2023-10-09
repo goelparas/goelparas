@@ -1,6 +1,6 @@
 Hello! 👋👋
 
-I'm Paras Goel, a Frontend Developer 🚀 with experience working in startups. I've had the privilege of contributing to the success of two startups by leveraging my skills in building modern web applications. I'm passionate about creating exceptional user experiences and staying up-to-date with the latest web development technologies.
+I'm Paras Goel, a Frontend Developer 🚀 with experience working in startups. I've had the privilege of contributing to the success of two startups by leveraging my skills in building modern web applications. I'm passionate about creating  user experiences and staying up-to-date with the latest web development technologies.
 
 ## Skills
 
